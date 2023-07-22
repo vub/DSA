@@ -1,0 +1,1 @@
+// Compare linked list and array in Javascript
